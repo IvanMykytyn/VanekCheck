@@ -5,7 +5,7 @@
 
 <h3 align="left">Connect with me:</h3>
 <ul>
-  <li>📫 Gmail: **ivanmykytyn03@gmail.com**</li>
+  <li>📫 <b>ivanmykytyn03@gmail.com</b></li>
   <li>🖇 <a href="https://www.linkedin.com/in/ivan-mykytyn">LinkedIn</a> </li>
   <li>📸 <a href="https://t.me/VanekCheck">Telegram</a> </li>
   <li>✉️ <a href="https://instagram.com/vanek.check">Instagram</a> </li>
