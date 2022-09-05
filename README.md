@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Vanya</h1>
-<h3 align="center">Javascript developer from Ukraine</h3>
+<h3 align="center">JavaScript developer from Ukraine</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=vanekcheck&label=Profile%20views&color=0e75b6&style=flat" alt="vanekcheck" /> </p>
 
